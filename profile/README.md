@@ -1,10 +1,5 @@
-## Hi there 👋
+## Hello WeDataLab
 
-<!--
-**Here are some ideas to get you started:**
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+깃허브 관련 문서는 아래 URL을 참조해 주세요. 해당 URL은 사내에서 접속 가능합니다.
+
+[GitHub](http://192.168.100.100:38080/on-boarding.html)
